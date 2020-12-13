@@ -4,12 +4,13 @@ address Tokyo,Japan
 from Tottori-yonago
 age 35
 married
--favorite-music GLAY
+-favorite-music ROCK
 -favorite-sports soccer
 -favorite-color blue
+-favorite-comic ONE PIECE
 
 <table>
-<th>DAY  EVENT</th>
-<td>1985.9.27 birth</td>
-<td>2016.8.7  marrige</td>
+<th>DAY / EVENT</th>
+<td>1985.9.27 / birth</td>
+<td>2016.8.7 / marrige</td>
 </table>
