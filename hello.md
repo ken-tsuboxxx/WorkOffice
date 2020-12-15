@@ -5,8 +5,8 @@ from Tottori-yonago
 age 35
 married
 -favorite-music ROCK
--favorite-sports soccer
--favorite-color blue
+-favorite-sports SOCCER
+-favorite-color BLUE
 -favorite-comic ONE PIECE
 
 <table>
